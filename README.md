@@ -6,7 +6,7 @@ This project is a **spam email classifier** built using Python and scikit-learn.
 
 ## 🚀 Project Highlights
 
-- **Dataset:** 190k emails (spam and ham)  
+- **Dataset:** 195k emails (spam and ham)  
 - **Features:** 5,000 TF-IDF features (unigrams + bigrams)  
 - **Model:** Multinomial Naive Bayes  
 - **Performance:** High accuracy on unseen emails  
