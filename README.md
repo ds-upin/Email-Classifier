@@ -142,8 +142,6 @@ This project falls under **Natural Language Processing (NLP)** because it works 
 - TF-IDF Vectorizer
 - Multinomial Naive Bayes
 - Random Forest
-- Joblib
-
 ---
 
 ## 📦 Installation
