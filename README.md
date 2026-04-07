@@ -149,6 +149,6 @@ This project falls under **Natural Language Processing (NLP)** because it works 
 ## 📦 Installation
 
 Clone the repository:
-git clone https://github.com/ds-upin/Email-Classifierr.git
+git clone https://github.com/ds-upin/Email-Classifier.git
 cd Email-Classifier
 
