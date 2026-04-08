@@ -69,35 +69,7 @@ The project includes **data cleaning**, **email length analysis**, and **outlier
 
 ### 2️⃣ Random Forest (Pipeline 2)
 
-**Accuracy:** 0.9855
-
-**Classification Report**
-
-| Class    | Precision | Recall | F1-score | Support |
-|----------|-----------|--------|----------|---------|
-| 0 (Ham)  | 0.98 | 0.99 | 0.99 | 18,335 |
-| 1 (Spam) | 0.99 | 0.98 | 0.98 | 17,088 |
-
-**Confusion Matrix**
-[[18099 236]
-[ 279 16809]]
-
-
-**Interpretation**
-
-- True Negatives (Ham correctly classified): 18,099
-- False Positives (Ham predicted as Spam): 236
-- False Negatives (Spam predicted as Ham): 279
-- True Positives (Spam correctly classified): 16,809
-
----
-
-## 📈 Performance Comparison
-
-| Model | Accuracy | Precision (Spam) | Recall (Spam) | F1-score |
-|------|----------|------------------|--------------|---------|
-| Multinomial Naive Bayes | 0.94 | 0.95 | 0.92 | 0.94 |
-| Random Forest | **0.985** | **0.99** | **0.98** | **0.98** |
+**Accuracy:** 0.9155
 
 ---
 
